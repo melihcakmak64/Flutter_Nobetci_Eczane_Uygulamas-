@@ -1,4 +1,4 @@
-# hava_durumu
+# Nobetci Eczane Uygulaması Flutter
 
 A new Flutter project.
 
