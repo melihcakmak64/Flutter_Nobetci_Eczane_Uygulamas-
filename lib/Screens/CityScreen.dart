@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:hava_durumu/Screens/PharmacyScreen.dart';
-import 'package:hava_durumu/helper/sehirler.dart';
+import '../helper/cities.dart';
+import 'PharmacyScreen.dart';
 
 class CityScreen extends StatefulWidget {
   const CityScreen({super.key});

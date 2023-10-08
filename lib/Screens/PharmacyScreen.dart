@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import '../models/EczaneModel.dart';
-import '../service/eczaneService.dart';
+import '../models/PharmacyModel.dart';
+import '../service/PharmacyService.dart';
 
 class PharmacyScreen extends StatefulWidget {
   final String? sehir;

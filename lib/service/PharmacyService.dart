@@ -1,5 +1,5 @@
 import 'dart:convert';
-import 'package:hava_durumu/models/EczaneModel.dart';
+import 'package:hava_durumu/models/PharmacyModel.dart';
 import 'package:http/http.dart' as http;
 
 class EczaneServis {

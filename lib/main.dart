@@ -1,9 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:hava_durumu/service/eczaneService.dart';
-import 'package:http/http.dart';
 
 import 'Screens/CityScreen.dart';
-import 'models/EczaneModel.dart';
 
 void main() {
   runApp(const MyApp());
